@@ -1,5 +1,5 @@
-#APLIKASI E-TAMU BERBASIS LARAVEL8
-# Magang Badan Perencanaan Dan Pembangunan Daerah Sumenep
+# APLIKASI E-TAMU BERBASIS LARAVEL8
+ Magang Badan Perencanaan Dan Pembangunan Daerah Sumenep
 Bidang :  Teknologi Informasi
 
 #Data Kelompok :

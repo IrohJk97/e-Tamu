@@ -3,7 +3,6 @@
 - Bidang :  Teknologi Informasi
 
 # Data Kelompok :
-- Bahrul Ulum
 - Musyarrofah
 - Asriana Febriansyah
 - Wiwin Siftiani
@@ -22,7 +21,7 @@
 -   Jalankan `php artisan serve` command
 -   Done
 
-# Vitur :
+# Fitur :
 ## User :
 - Home
 - Tambah Tamu

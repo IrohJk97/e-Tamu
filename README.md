@@ -3,7 +3,6 @@
 - Bidang :  Teknologi Informasi
 
 # Data Kelompok :
-- Bahrul Ulum
 - Musyarrofah
 - Asriana Febriansyah
 - Wiwin Siftiani

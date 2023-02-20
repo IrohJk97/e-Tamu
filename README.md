@@ -1,8 +1,8 @@
 # APLIKASI E-TAMU BERBASIS LARAVEL8
- Magang Badan Perencanaan Dan Pembangunan Daerah Sumenep
- Bidang :  Teknologi Informasi
+ Aplikasi ini merupakan Project hasil Magang kami di Kantor Badan Perencanaan Dan Pembangunan Daerah Sumenep
+- Bidang :  Teknologi Informasi
 
-#Data Kelompok :
+# Data Kelompok :
 - Musyarrofah
 - Asriana Febriansyah
 - Wiwin Siftiani

@@ -1,5 +1,5 @@
 # APLIKASI E-TAMU BERBASIS LARAVEL8
- Aplikasi ini merupakan Project hasil Magang kami di Kantor Badan Perencanaan Dan Pembangunan Daerah Sumenep
+ Aplikasi ini merupakan Project hasil Magang kami di Kantor Badan Perencanaan Dan Pembangunan Daerah Sumenep (BAPPEDA).
 - Bidang :  Teknologi Informasi
 
 # Data Kelompok :
@@ -20,6 +20,22 @@
 -   Jalankan `php artisan key:generate` command
 -   Jalankan `php artisan serve` command
 -   Done
+
+# Vitur :
+## User :
+- Home
+- Tambah Tamu
+- List Data Tamu
+- Layanan
+## Admin :
+- Login
+- Home
+- Divisi
+- Jabatan
+- Data Pegawai
+- Data Tamu
+- Setting Profil
+
 
 # Halaman Login
 ![WhatsApp Image 2023-02-20 at 09 53 20](https://user-images.githubusercontent.com/110748949/219998966-81aeab5b-d6b1-4fc7-b7e5-2082ba389f87.jpeg)
